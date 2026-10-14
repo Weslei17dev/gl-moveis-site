@@ -1,0 +1,38 @@
+GL MÓVEIS — VITRINE PARA APRESENTAÇÃO
+
+COMO ABRIR
+1. Extraia o ZIP inteiro para uma pasta.
+2. Dê dois cliques em index.html.
+
+Não precisa instalar nada, usar terminal, Node.js ou banco de dados.
+O visual, os textos, os preços e as imagens vêm do ZIP original.
+
+O QUE ESTÁ INCLUÍDO
+- Início, catálogos, produtos, detalhes e atendimento.
+- Busca e filtros de marcas e ambientes.
+- Oito catálogos PDF completos, com leitura e download.
+- Onze produtos de exemplo e as imagens originais.
+- Layout que se adapta ao computador e ao celular.
+
+ARQUIVOS
+index.html  — página de entrada
+style.css   — cores, fontes, tamanhos e layout
+script.js   — navegação, filtros, ícones e leitor de PDF
+dados.js    — textos, produtos, preços e informações da empresa
+assets/     — logotipo, ícones e fotografias
+catalogos/  — os oito PDFs
+
+PARA EDITAR
+Abra os arquivos em um editor de texto, como o VS Code.
+O conteúdo fica no dados.js. Mantenha aspas, vírgulas e nomes dos campos.
+
+ATENDIMENTO
+Os contatos foram mantidos conforme o original. O campo de WhatsApp está
+vazio no original; só preencha quando tiver o número correto confirmado.
+Instagram e ligações dependem dos aplicativos e da conexão do dispositivo.
+
+OBSERVAÇÕES
+A vitrine e os PDFs funcionam localmente. Alguns navegadores de celular
+abrem o PDF em outra tela; se o leitor não aparecer, use Nova aba ou Baixar PDF.
+Esta versão é só a apresentação do cliente, sem painel administrativo,
+login, API ou armazenamento de cadastros.
